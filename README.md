@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science.
 - 🌱 I’m currently learning 'Kotlin' and 'Java'
 - 📫 How to reach me emrerkus2323@gmail.com
-- 
+- 📕 I am a second year computer engineering student at Fırat University.
 
 <!---
 NapoI/NapoI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
