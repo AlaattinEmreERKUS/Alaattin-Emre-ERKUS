@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NapoI
 - 👀 I’m interested in computer science.
-- 🌱 I’m currently learning 'C' and 'Java'
+- 🌱 I’m currently learning 'Kotlin' and 'Java'
 - 📫 How to reach me emrerkus2323@gmail.com
 - 
 
